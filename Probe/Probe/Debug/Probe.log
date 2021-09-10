@@ -1,0 +1,4 @@
+﻿  Probe.cpp
+C:\Users\Борис\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(9,36): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Борис\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(10,20): warning C4018: <=: несоответствие типов со знаком и без знака
+  Probe.vcxproj -> C:\Users\Борис\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Debug\Probe.exe
