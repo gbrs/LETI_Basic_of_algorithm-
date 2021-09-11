@@ -1,4 +1,10 @@
 ﻿  Probe.cpp
-C:\Users\Борис\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(9,36): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-C:\Users\Борис\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(10,20): warning C4018: <=: несоответствие типов со знаком и без знака
-  Probe.vcxproj -> C:\Users\Борис\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Debug\Probe.exe
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(48,36): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(68,7): error C2040: main::<unnamed-type-$S1>::value: "int [2]" отличается по уровням косвенного обращения от "int"
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(69,10): error C2040: main::<unnamed-type-$S1>::number: "double [1]" отличается по уровням косвенного обращения от "float"
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(71,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(73,20): error C2109: для индекса требуется массив или указатель
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(74,10): error C2109: для индекса требуется массив или указатель
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(80,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(82,20): error C2109: для индекса требуется массив или указатель
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(83,10): error C2109: для индекса требуется массив или указатель
