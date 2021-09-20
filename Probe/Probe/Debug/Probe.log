@@ -1,7 +1,7 @@
-﻿  Probe.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Probe.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Probe.cpp
 C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(15,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(41,20): warning C4018: <=: несоответствие типов со знаком и без знака
-C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(63,20): warning C4018: <=: несоответствие типов со знаком и без знака
-C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(88,20): warning C4018: <=: несоответствие типов со знаком и без знака
-C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(99,20): warning C4018: <=: несоответствие типов со знаком и без знака
-  Probe.vcxproj -> C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Debug\Probe.exe
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(39,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(61,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(120,19): error C3688: недопустимый литеральный суффикс "LL"; не удалось найти литеральный оператор или шаблон литерального оператора "operator ""LL"
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(124,20): warning C4018: <=: несоответствие типов со знаком и без знака
