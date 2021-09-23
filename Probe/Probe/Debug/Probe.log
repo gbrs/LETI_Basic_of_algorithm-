@@ -3,5 +3,5 @@
 C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(15,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
 C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(39,20): warning C4018: <=: несоответствие типов со знаком и без знака
 C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(61,20): warning C4018: <=: несоответствие типов со знаком и без знака
-C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(120,19): error C3688: недопустимый литеральный суффикс "LL"; не удалось найти литеральный оператор или шаблон литерального оператора "operator ""LL"
-C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(124,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Probe\Probe.cpp(126,20): warning C4018: <=: несоответствие типов со знаком и без знака
+  Probe.vcxproj -> C:\Users\Боря\PycharmProjects\LETI_Basic_of_algorithm-\Probe\Debug\Laba_1.exe
